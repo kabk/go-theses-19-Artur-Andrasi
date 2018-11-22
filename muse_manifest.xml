@@ -1,0 +1,56 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="introversion.com" resolutions="1x" timestamp="1542893697826">
+  <folder name="css">
+    <file name="site_global.css" crc="3951121676"/>
+    <file name="artur_sketch_1_3.css" crc="4092330270" ref="artur_sketch_1_3"/>
+    <file name="artur_sketch_1_1.css" crc="417966686" ref="artur_sketch_1_1"/>
+    <file name="artur_sketch_1_2.css" crc="375589546" ref="artur_sketch_1_2"/>
+    <file name="index.css" crc="4156556227" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:artur_sketch_1_1:artur_sketch_1_2:artur_sketch_1_3"/>
+    <file name="museutils.js" crc="340535759" ref="index:artur_sketch_1_1:artur_sketch_1_2:artur_sketch_1_3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:artur_sketch_1_1:artur_sketch_1_2:artur_sketch_1_3"/>
+    <file name="museconfig.js" crc="310584261" ref="index:artur_sketch_1_1:artur_sketch_1_2:artur_sketch_1_3"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:artur_sketch_1_1:artur_sketch_1_2:artur_sketch_1_3"/>
+    <file name="webpro.js" crc="4059564322" ref="index:artur_sketch_1_3"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:artur_sketch_1_3"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:artur_sketch_1_3"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:artur_sketch_1_3"/>
+    <file name="require.js" crc="7928878" ref="index:artur_sketch_1_1:artur_sketch_1_2:artur_sketch_1_3"/>
+  </folder>
+  <folder name="images">
+    <file name="jannesecher3-crop-u1237.jpg" crc="270970694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jannesecher1.jpg" crc="3833247607" seo="true" ref="index:artur_sketch_1_2">
+      <caption webpage="index" alt=""/>
+      <caption webpage="artur_sketch_1_2" alt=""/>
+    </file>
+    <file name="220px-psychologische_typen_(jung_book)_cover.jpg" crc="245884376" seo="true" ref="index:artur_sketch_1_2:artur_sketch_1_3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="artur_sketch_1_2" alt=""/>
+      <caption webpage="artur_sketch_1_3" alt=""/>
+    </file>
+    <file name="introvert1.jpg" crc="408809947" seo="true" ref="index:artur_sketch_1_3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="artur_sketch_1_3" alt=""/>
+    </file>
+    <file name="netflixgeneratedcovers2.png" crc="218173977" seo="true" ref="index:artur_sketch_1_2">
+      <caption webpage="index" alt=""/>
+      <caption webpage="artur_sketch_1_2" alt=""/>
+    </file>
+    <file name="lm-centralmuseum1.jpg" crc="222376886" seo="true" ref="artur_sketch_1_2">
+      <caption webpage="artur_sketch_1_2" alt=""/>
+    </file>
+    <file name="mv5bmjlmyjmxyjmtzdvhzi00n2zmlwi0ztetogrintrjntzlywzlxkeyxkfqcgdeqxvymtc4mzi2nq@@_v1_uy317_cr18,0,214,317_al_.jpg" crc="154315658" seo="true" ref="artur_sketch_1_2">
+      <caption webpage="artur_sketch_1_2" alt=""/>
+    </file>
+    <file name="jannesecher3-crop-u1698.jpg" crc="270970694" seo="true" ref="artur_sketch_1_3">
+      <caption webpage="artur_sketch_1_3" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4142007789" seo="true" mt="1542881739101" redirect="true"/>
+  <file name="artur_sketch_1_1.html" crc="4048517074" seo="true" mt="1542797036639" redirect="true"/>
+  <file name="artur_sketch_1_2.html" crc="3896213881" seo="true" mt="1542876932712" redirect="true"/>
+  <file name="artur_sketch_1_3.html" crc="4088017889" seo="true" mt="1542879367417" redirect="true"/>
+</manifest>
