@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="artur-thesis-design.nl" resolutions="1x" timestamp="1543488180160">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="artur-thesis-sketch.com" resolutions="1x" timestamp="1543486713402">
   <folder name="css">
     <file name="site_global.css" crc="4292449180"/>
     <file name="artur_sketch_1_4_1.css" crc="41690534" ref="artur_sketch_1_4_1"/>
@@ -11,34 +11,33 @@
     <file name="nomq_artur_sketch_1_4.css" crc="100255021" ref="artur_sketch_1_4"/>
     <file name="artur_sketch_1_1.css" crc="417966686" ref="artur_sketch_1_1"/>
     <file name="artur_sketch_1_2.css" crc="458673177" ref="artur_sketch_1_2"/>
-    <file name="artur_sketch_1.css" crc="140943498" ref="artur_sketch_1"/>
-    <file name="index.css" crc="328724296" ref="index"/>
+    <file name="index.css" crc="140943498" ref="index"/>
     <file name="artur_sketch_2_1.css" crc="4272107752" ref="artur_sketch_2_1"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="artur_sketch_1:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1:index"/>
-    <file name="museutils.js" crc="340535759" ref="artur_sketch_1:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1:index"/>
-    <file name="whatinput.js" crc="86476730" ref="artur_sketch_1:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1:index"/>
-    <file name="museconfig.js" crc="310584261" ref="artur_sketch_1:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1:index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="artur_sketch_1:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1:index"/>
-    <file name="webpro.js" crc="4059564322" ref="artur_sketch_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="artur_sketch_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="artur_sketch_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
-    <file name="touchswipe.js" crc="4075097462" ref="artur_sketch_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
-    <file name="require.js" crc="7928878" ref="artur_sketch_1:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1:index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
+    <file name="museutils.js" crc="340535759" ref="index:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
+    <file name="museconfig.js" crc="310584261" ref="index:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
+    <file name="webpro.js" crc="4059564322" ref="index:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
+    <file name="require.js" crc="7928878" ref="index:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
   </folder>
   <folder name="images">
-    <file name="jannesecher3-crop-u1237.jpg" crc="4246897063" seo="true" ref="artur_sketch_1">
-      <caption webpage="artur_sketch_1" alt=""/>
+    <file name="jannesecher3-crop-u1237.jpg" crc="4246897063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="jannesecher1293x294.jpg" crc="3937290273" seo="true" ref="artur_sketch_1">
-      <caption webpage="artur_sketch_1" alt=""/>
+    <file name="jannesecher1293x294.jpg" crc="3937290273" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="220px-psychologische_typen_(jung_book)_cover.jpg" crc="245884376" seo="true" ref="artur_sketch_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1">
-      <caption webpage="artur_sketch_1" alt=""/>
+    <file name="220px-psychologische_typen_(jung_book)_cover.jpg" crc="245884376" seo="true" ref="index:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1">
       <caption webpage="artur_sketch_1_4_1" alt=""/>
       <caption webpage="artur_sketch_1_4_1" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="artur_sketch_2_1" alt=""/>
       <caption webpage="artur_sketch_1_4" alt=""/>
       <caption webpage="artur_sketch_1_4" alt=""/>
@@ -48,11 +47,11 @@
       <caption webpage="artur_sketch_1_3_1" alt=""/>
       <caption webpage="artur_sketch_1_3_1" alt=""/>
     </file>
-    <file name="introvert1285x179.jpg" crc="363438577" seo="true" ref="artur_sketch_1">
-      <caption webpage="artur_sketch_1" alt=""/>
+    <file name="introvert1285x179.jpg" crc="363438577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="netflixgeneratedcovers2607x209.png" crc="4247881058" seo="true" ref="artur_sketch_1">
-      <caption webpage="artur_sketch_1" alt=""/>
+    <file name="netflixgeneratedcovers2607x209.png" crc="4247881058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
     <file name="jannesecher1290x291.jpg" crc="151472370" seo="true" ref="artur_sketch_2_1">
       <caption webpage="artur_sketch_2_1" alt=""/>
@@ -152,7 +151,7 @@
       <caption webpage="artur_sketch_1_4_1" alt=""/>
     </file>
   </folder>
-  <file name="artur_sketch_1.html" crc="4144325989" seo="true" mt="1543487300663" redirect="true"/>
+  <file name="index.html" crc="252594786" seo="true" mt="1543483274344" redirect="true"/>
   <file name="artur_sketch_1_1.html" crc="3886942204" seo="true" mt="1543482338226" redirect="true"/>
   <file name="artur_sketch_2_1.html" crc="343963563" seo="true" mt="1543476244931" redirect="true"/>
   <file name="artur_sketch_1_2.html" crc="353635299" seo="true" mt="1543483274346" redirect="true"/>
@@ -160,5 +159,4 @@
   <file name="artur_sketch_1_3_1.html" crc="57989059" seo="true" mt="1543483274348" redirect="true"/>
   <file name="artur_sketch_1_4.html" crc="4175144242" seo="true" mt="1543483550473" redirect="true"/>
   <file name="artur_sketch_1_4_1.html" crc="242534604" seo="true" mt="1543486216412" redirect="true"/>
-  <file name="index.html" crc="114709879" seo="true" mt="1543488131918" redirect="true"/>
 </manifest>
