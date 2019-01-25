@@ -1,197 +1,73 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="artur-thesis-design.nl" resolutions="1x" timestamp="1545299038210">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="artur-andrasi-guide-to-solitude.com" resolutions="1x" timestamp="1548437856170">
   <folder name="css">
-    <file name="site_global.css" crc="4165355324"/>
-    <file name="artur_sketch_2_1.css" crc="4272107752" ref="artur_sketch_2_1"/>
-    <file name="artur_sketch_1_3.css" crc="174992559" ref="artur_sketch_1_3"/>
-    <file name="nomq_artur_sketch_1_3.css" crc="306346065" ref="artur_sketch_1_3"/>
-    <file name="index.css" crc="3814581801" ref="index"/>
-    <file name="artur_sketch_1_4_2.css" crc="122726784" ref="artur_sketch_1_4_2"/>
-    <file name="nomq_artur_sketch_1_4_2.css" crc="144197870" ref="artur_sketch_1_4_2"/>
-    <file name="artur_sketch_1_1.css" crc="417966686" ref="artur_sketch_1_1"/>
-    <file name="artur_sketch_1_2.css" crc="4092330270" ref="artur_sketch_1_2"/>
-    <file name="artur_sketch_1_4_2-copy.css" crc="4036335318" ref="artur_sketch_1_4_2-copy"/>
-    <file name="nomq_artur_sketch_1_4_2-copy.css" crc="395066378" ref="artur_sketch_1_4_2-copy"/>
-    <file name="artur_sketch_1_4_1.css" crc="3963536017" ref="artur_sketch_1_4_1"/>
-    <file name="nomq_artur_sketch_1_4_1.css" crc="4229872537" ref="artur_sketch_1_4_1"/>
-    <file name="artur_sketch_1_4.css" crc="3979575963" ref="artur_sketch_1_4"/>
-    <file name="nomq_artur_sketch_1_4.css" crc="4109474395" ref="artur_sketch_1_4"/>
-    <file name="artur_sketch_1.css" crc="4156556227" ref="artur_sketch_1"/>
-    <file name="artur_sketch_1_3_1.css" crc="24523774" ref="artur_sketch_1_3_1"/>
-    <file name="nomq_artur_sketch_1_3_1.css" crc="4007657573" ref="artur_sketch_1_3_1"/>
+    <file name="site_global.css" crc="413973400"/>
+    <file name="bibliography.css" crc="229544845" ref="bibliography"/>
+    <file name="nomq_bibliography.css" crc="4135900073" ref="bibliography"/>
+    <file name="index.css" crc="176528091" ref="index"/>
+    <file name="nomq_index.css" crc="3813133837" ref="index"/>
+    <file name="abstract.css" crc="4275088077" ref="abstract"/>
+    <file name="nomq_abstract.css" crc="522132316" ref="abstract"/>
+  </folder>
+  <folder name="assets">
+    <file name="guidetosolitude_arturandrasi_print.pdf" crc="3868296815" seo="true" mt="1548437381000"/>
+    <file name="guidetosolitude_arturandrasi_print2.pdf" crc="3868296815" seo="true" mt="1548437381000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="artur_sketch_1:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1:index:artur_sketch_1_4_2:artur_sketch_1_4_2-copy"/>
-    <file name="museutils.js" crc="340535759" ref="artur_sketch_1:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1:index:artur_sketch_1_4_2:artur_sketch_1_4_2-copy"/>
-    <file name="whatinput.js" crc="86476730" ref="artur_sketch_1:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1:index:artur_sketch_1_4_2:artur_sketch_1_4_2-copy"/>
-    <file name="museconfig.js" crc="310584261" ref="artur_sketch_1:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1:index:artur_sketch_1_4_2:artur_sketch_1_4_2-copy"/>
-    <file name="jquery.watch.js" crc="51536988" ref="artur_sketch_1:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1:index:artur_sketch_1_4_2:artur_sketch_1_4_2-copy"/>
-    <file name="webpro.js" crc="4059564322" ref="artur_sketch_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="artur_sketch_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="artur_sketch_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
-    <file name="touchswipe.js" crc="4075097462" ref="artur_sketch_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1"/>
-    <file name="require.js" crc="7928878" ref="artur_sketch_1:artur_sketch_1_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1:index:artur_sketch_1_4_2:artur_sketch_1_4_2-copy"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1:artur_sketch_1_4_2:artur_sketch_1_4_2-copy"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:bibliography:abstract"/>
+    <file name="museutils.js" crc="340535759" ref="index:bibliography:abstract"/>
+    <file name="whatinput.js" crc="86476730" ref="index:bibliography:abstract"/>
+    <file name="museconfig.js" crc="310584261" ref="index:bibliography:abstract"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:bibliography:abstract"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:bibliography:abstract"/>
+    <file name="require.js" crc="7928878" ref="index:bibliography:abstract"/>
   </folder>
   <folder name="images">
-    <file name="jannesecher3-crop-u1237.jpg" crc="244939057" seo="true" ref="artur_sketch_1">
-      <caption webpage="artur_sketch_1" alt=""/>
+    <file name="a-master-favicon.ico" crc="4593270" ref="index"/>
+    <file name="donald-schenkel-untitled1.png" crc="3995823556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="jannesecher1293x294.jpg" crc="450277782" seo="true" ref="artur_sketch_1">
-      <caption webpage="artur_sketch_1" alt=""/>
+    <file name="donald-schenkel-untitled2.jpg" crc="418708862" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="220px-psychologische_typen_(jung_book)_cover.jpg" crc="245884376" seo="true" ref="artur_sketch_1:artur_sketch_2_1:artur_sketch_1_2:artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1">
-      <caption webpage="artur_sketch_2_1" alt=""/>
-      <caption webpage="artur_sketch_1_3_1" alt=""/>
-      <caption webpage="artur_sketch_1_3_1" alt=""/>
-      <caption webpage="artur_sketch_1_4" alt=""/>
-      <caption webpage="artur_sketch_1_4" alt=""/>
-      <caption webpage="artur_sketch_1_2" alt=""/>
-      <caption webpage="artur_sketch_1_4_1" alt=""/>
-      <caption webpage="artur_sketch_1_4_1" alt=""/>
-      <caption webpage="artur_sketch_1" alt=""/>
-      <caption webpage="artur_sketch_1_3" alt=""/>
-      <caption webpage="artur_sketch_1_3" alt=""/>
+    <file name="ryoji-ikeda1.jpg" crc="4003652190" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="introvert1285x179.jpg" crc="408809947" seo="true" ref="artur_sketch_1">
-      <caption webpage="artur_sketch_1" alt=""/>
+    <file name="ryoji_ikeda_eye_filmmuseumstudiohanswilschut_62_copy.jpg" crc="67754137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="netflixgeneratedcovers2607x209.jpg" crc="495782262" seo="true" ref="artur_sketch_1">
-      <caption webpage="artur_sketch_1" alt=""/>
+    <file name="2018-12-17 09_38_12-luthi_onblankpagespdf - adobe acrobat pro dc.jpg" crc="4024687475" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="jannesecher1290x291.jpg" crc="3912313833" seo="true" ref="artur_sketch_2_1">
-      <caption webpage="artur_sketch_2_1" alt=""/>
+    <file name="2018-12-17 09_38_26-luthi_onblankpagespdf - adobe acrobat pro dc.jpg" crc="4197578599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="lm-centralmuseum1.jpg" crc="222376886" seo="true" ref="artur_sketch_2_1">
-      <caption webpage="artur_sketch_2_1" alt=""/>
+    <file name="georgeherberteasterwingspatternpoem1633.jpg" crc="177315411" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="netflixgeneratedcovers2562x193.jpg" crc="175490548" seo="true" ref="artur_sketch_2_1">
-      <caption webpage="artur_sketch_2_1" alt=""/>
+    <file name="donald-schenkel-untitled1188x152.png" crc="291624940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="mv5bmjlmyjmxyjmtzdvhzi00n2zmlwi0ztetogrintrjntzlywzlxkeyxkfqcgdeqxvymtc4mzi2nq@@_v1_uy317_cr18,0,214,317_al_.jpg" crc="154315658" seo="true" ref="artur_sketch_2_1">
-      <caption webpage="artur_sketch_2_1" alt=""/>
+    <file name="donald-schenkel-untitled2304x457.jpg" crc="3781781571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="jannesecher3-crop-u1698.jpg" crc="244939057" seo="true" ref="artur_sketch_1_2">
-      <caption webpage="artur_sketch_1_2" alt=""/>
+    <file name="ryoji-ikeda1313x206.jpg" crc="516629560" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="jannesecher3-crop-u2218.jpg" crc="274623155" seo="true" ref="artur_sketch_1_3">
-      <caption webpage="artur_sketch_1_3" alt=""/>
+    <file name="ryoji_ikeda_eye_filmmuseumstudiohanswilschut_62_copy314x236.jpg" crc="4051390531" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="introvert1376x236.jpg" crc="4273815030" seo="true" ref="artur_sketch_1_3">
-      <caption webpage="artur_sketch_1_3" alt=""/>
+    <file name="2018-12-17 09_38_12-luthi_onblankpagespdf - adobe acrobat pro dc314x494.jpg" crc="163649199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="netflixgeneratedcovers2-crop-u2191.jpg" crc="3953401248" seo="true" ref="artur_sketch_1_3">
-      <caption webpage="artur_sketch_1_3" alt=""/>
+    <file name="2018-12-17 09_38_26-luthi_onblankpagespdf - adobe acrobat pro dc311x452.jpg" crc="510609760" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="netflixgeneratedcovers2-crop-u3148.jpg" crc="114632772" seo="true" ref="artur_sketch_1_3">
-      <caption webpage="artur_sketch_1_3" alt=""/>
+    <file name="georgeherberteasterwingspatternpoem1633314x217.jpg" crc="269370236" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="netflixgeneratedcovers2-crop-u3172.jpg" crc="429978545" seo="true" ref="artur_sketch_1_3">
-      <caption webpage="artur_sketch_1_3" alt=""/>
-    </file>
-    <file name="netflixgeneratedcovers2-crop-u3196.jpg" crc="3784369170" seo="true" ref="artur_sketch_1_3">
-      <caption webpage="artur_sketch_1_3" alt=""/>
-    </file>
-    <file name="jannesecher1-crop-u2207.jpg" crc="117166953" seo="true" ref="artur_sketch_1_3">
-      <caption webpage="artur_sketch_1_3" alt=""/>
-    </file>
-    <file name="jannesecher3-crop-u22182.jpg" crc="244939057" seo="true" ref="artur_sketch_1_3">
-      <caption webpage="artur_sketch_1_3" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="artur_sketch_1_3:artur_sketch_1_3_1:artur_sketch_1_4:artur_sketch_1_4_1:artur_sketch_1_4_2:artur_sketch_1_4_2-copy"/>
-    <file name="jannesecher3-crop-u2692.jpg" crc="3797109163" seo="true" ref="artur_sketch_1_3_1">
-      <caption webpage="artur_sketch_1_3_1" alt=""/>
-    </file>
-    <file name="introvert1.jpg" crc="4273815030" seo="true" ref="artur_sketch_1_3_1">
-      <caption webpage="artur_sketch_1_3_1" alt=""/>
-    </file>
-    <file name="netflixgeneratedcovers2.jpg" crc="221426529" seo="true" ref="artur_sketch_1_3_1">
-      <caption webpage="artur_sketch_1_3_1" alt=""/>
-    </file>
-    <file name="jannesecher1-crop-u2823.jpg" crc="354391165" seo="true" ref="artur_sketch_1_3_1">
-      <caption webpage="artur_sketch_1_3_1" alt=""/>
-    </file>
-    <file name="jannesecher3-crop-u26922.jpg" crc="244939057" seo="true" ref="artur_sketch_1_3_1">
-      <caption webpage="artur_sketch_1_3_1" alt=""/>
-    </file>
-    <file name="jannesecher3-crop-u3914.jpg" crc="274623155" seo="true" ref="artur_sketch_1_4">
-      <caption webpage="artur_sketch_1_4" alt=""/>
-    </file>
-    <file name="netflixgeneratedcovers2-crop-u4310.jpg" crc="283433729" seo="true" ref="artur_sketch_1_4">
-      <caption webpage="artur_sketch_1_4" alt=""/>
-    </file>
-    <file name="netflixgeneratedcovers2-crop-u4316.jpg" crc="246583980" seo="true" ref="artur_sketch_1_4">
-      <caption webpage="artur_sketch_1_4" alt=""/>
-    </file>
-    <file name="netflixgeneratedcovers2-crop-u4312.jpg" crc="4069293271" seo="true" ref="artur_sketch_1_4">
-      <caption webpage="artur_sketch_1_4" alt=""/>
-    </file>
-    <file name="netflixgeneratedcovers2-crop-u4314.jpg" crc="4077837511" seo="true" ref="artur_sketch_1_4">
-      <caption webpage="artur_sketch_1_4" alt=""/>
-    </file>
-    <file name="jannesecher1-crop-u3773.jpg" crc="354391165" seo="true" ref="artur_sketch_1_4">
-      <caption webpage="artur_sketch_1_4" alt=""/>
-    </file>
-    <file name="jannesecher3-crop-u39142.jpg" crc="244939057" seo="true" ref="artur_sketch_1_4">
-      <caption webpage="artur_sketch_1_4" alt=""/>
-    </file>
-    <file name="jannesecher3-crop-u4600.jpg" crc="274623155" seo="true" ref="artur_sketch_1_4_1">
-      <caption webpage="artur_sketch_1_4_1" alt=""/>
-    </file>
-    <file name="netflixgeneratedcovers2-crop-u4550.jpg" crc="283433729" seo="true" ref="artur_sketch_1_4_1">
-      <caption webpage="artur_sketch_1_4_1" alt=""/>
-    </file>
-    <file name="netflixgeneratedcovers2-crop-u4529.jpg" crc="246583980" seo="true" ref="artur_sketch_1_4_1">
-      <caption webpage="artur_sketch_1_4_1" alt=""/>
-    </file>
-    <file name="netflixgeneratedcovers2-crop-u4531.jpg" crc="4069293271" seo="true" ref="artur_sketch_1_4_1">
-      <caption webpage="artur_sketch_1_4_1" alt=""/>
-    </file>
-    <file name="netflixgeneratedcovers2-crop-u4540.jpg" crc="4077837511" seo="true" ref="artur_sketch_1_4_1">
-      <caption webpage="artur_sketch_1_4_1" alt=""/>
-    </file>
-    <file name="jannesecher1-crop-u4534.jpg" crc="354391165" seo="true" ref="artur_sketch_1_4_1">
-      <caption webpage="artur_sketch_1_4_1" alt=""/>
-    </file>
-    <file name="jannesecher3-crop-u46002.jpg" crc="244939057" seo="true" ref="artur_sketch_1_4_1">
-      <caption webpage="artur_sketch_1_4_1" alt=""/>
-    </file>
-    <file name="concretepoetry3.jpg" crc="4044227487" seo="true" ref="artur_sketch_1_4_2">
-      <caption webpage="artur_sketch_1_4_2" alt=""/>
-    </file>
-    <file name="jannesecher1-crop-u6146.jpg" crc="117166953" seo="true" ref="artur_sketch_1_4_2">
-      <caption webpage="artur_sketch_1_4_2" alt=""/>
-    </file>
-    <file name="donald-schenkel-untitled1376x303.png" crc="3950217956" seo="true" ref="artur_sketch_1_4_2">
-      <caption webpage="artur_sketch_1_4_2" alt=""/>
-    </file>
-    <file name="donald-schenkel-untitled4.jpg" crc="4183321760" seo="true" ref="artur_sketch_1_4_2">
-      <caption webpage="artur_sketch_1_4_2" alt=""/>
-    </file>
-    <file name="concretepoetry3189x189.jpg" crc="3964280345" seo="true" ref="artur_sketch_1_4_2">
-      <caption webpage="artur_sketch_1_4_2" alt=""/>
-    </file>
-    <file name="jannesecher1188x189.jpg" crc="438908157" seo="true" ref="artur_sketch_1_4_2">
-      <caption webpage="artur_sketch_1_4_2" alt=""/>
-    </file>
-    <file name="donald-schenkel-untitled1188x152.png" crc="291624940" seo="true" ref="artur_sketch_1_4_2">
-      <caption webpage="artur_sketch_1_4_2" alt=""/>
-    </file>
-    <file name="donald-schenkel-untitled4188x282.jpg" crc="108413414" seo="true" ref="artur_sketch_1_4_2">
-      <caption webpage="artur_sketch_1_4_2" alt=""/>
-    </file>
-    <file name="donald-schenkel-untitled1.png" crc="3995823556" seo="true" ref="artur_sketch_1_4_2-copy">
-      <caption webpage="artur_sketch_1_4_2-copy" alt=""/>
-    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:bibliography:abstract"/>
   </folder>
-  <file name="artur_sketch_1.html" crc="4156401141" seo="true" mt="1544707990511" redirect="true"/>
-  <file name="artur_sketch_1_1.html" crc="3974693911" seo="true" mt="1544707990512" redirect="true"/>
-  <file name="artur_sketch_2_1.html" crc="3799143475" seo="true" mt="1544707990513" redirect="true"/>
-  <file name="artur_sketch_1_2.html" crc="386569641" seo="true" mt="1544707990514" redirect="true"/>
-  <file name="artur_sketch_1_3.html" crc="531115809" seo="true" mt="1544707990515" redirect="true"/>
-  <file name="artur_sketch_1_3_1.html" crc="4069847762" seo="true" mt="1544707990516" redirect="true"/>
-  <file name="artur_sketch_1_4.html" crc="215221464" seo="true" mt="1544707990517" redirect="true"/>
-  <file name="artur_sketch_1_4_1.html" crc="523662673" seo="true" mt="1544707990518" redirect="true"/>
-  <file name="index.html" crc="3952059365" seo="true" mt="1545298986340" redirect="true"/>
-  <file name="artur_sketch_1_4_2.html" crc="115382896" seo="true" mt="1544707990519" redirect="true"/>
-  <file name="artur_sketch_1_4_2-copy.html" crc="3855358665" seo="true" mt="1545298899076" redirect="true"/>
+  <file name="index.html" crc="484504185" seo="true" mt="1548437747457" redirect="true"/>
+  <file name="bibliography.html" crc="3855139830" seo="true" mt="1548437691527" redirect="true"/>
+  <file name="abstract.html" crc="4124727508" seo="true" mt="1548434763852" redirect="true"/>
 </manifest>
